@@ -4,8 +4,8 @@ spring:
   datasource:
     driver-class-name: org.postgresql.Driver
     url: jdbc:postgresql://localhost:5432/orderdb
-    username: alpha
-    password: Jawda123
+    username: salma
+    password: Salma12345@
   jpa:
     hibernate:
       ddl-auto: update
